@@ -1,6 +1,6 @@
-from PyQt5.QtWidgets import QWidget, QLabel, QVBoxLayout
-from PyQt5.QtCore import Qt, QMimeData, QPoint
-from PyQt5.QtGui import QDrag
+from PyQt6.QtWidgets import QWidget, QLabel, QVBoxLayout
+from PyQt6.QtCore import Qt, QMimeData, QPoint
+from PyQt6.QtGui import QDrag
 
 
 class DraggableLabel(QLabel):
