@@ -1,4 +1,4 @@
-from PyQt5.QtWidgets import QWidget, QGridLayout, QLabel
+from PyQt6.QtWidgets import QWidget, QGridLayout, QLabel
 
 class Window1(QWidget):
     def __init__(self):
